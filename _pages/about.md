@@ -13,7 +13,7 @@ redirect_from:
 - 🔗 **API / ESB 데이터 표준화 연계**와 실시간 관제 데이터 처리에 경험이 있습니다.
 - 🤖 **AI**(YOLO v5 객체인식)부터 **자동차 임베디드 SW**(CAN/CAPL)까지 폭넓게 학습했습니다.
 - 🌱 새로운 도메인과 기술을 빠르게 익히는 것을 즐깁니다.
-- 📫 dbal1107@gmail.com
+- 📫 inorrni@gmail.com
 
 기술 스택
 ======

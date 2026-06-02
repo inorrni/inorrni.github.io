@@ -30,7 +30,7 @@ author:
   location         : "Republic of Korea"
   employer         :
   uri              : # URL
-  email            : "dbal1107@gmail.com"
+  email            : "inorrni@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -275,8 +275,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""

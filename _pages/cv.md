@@ -45,5 +45,5 @@ AI · 관제/대시보드 · 자동차 SW를 아우르는 백엔드 개발자
 
 Contact
 ======
-* 📫 dbal1107@gmail.com
+* 📫 inorrni@gmail.com
 * 💻 [github.com/inorrni](https://github.com/inorrni)
